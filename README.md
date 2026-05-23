@@ -126,12 +126,6 @@
 </p>
 
 ---
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/abdelrahmanessam97/abdelrahmanessam97/output/github-contribution-grid-snake.svg"
-    alt="Contribution snake"
-  />
-</p>
 
 <h2 align="center">Connect</h2>
 
