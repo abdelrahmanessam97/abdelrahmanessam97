@@ -1,31 +1,98 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Abd Elrahman Essam Mohmed</h1>
-<h3 align="center">A passionate Front-End Developer| React.js, Next.js</h3>
+<div align="center">
 
-<p align="center">Front-end developer with extensive expertise in architecting responsive, high-performance web applications 
-leveraging React and Next.js. 
-Proficient in contemporary front-end ecosystems, including TypeScript, Redux Toolkit, and Tailwind CSS. 
-Adept at translating intricate business requirements into modular, maintainable, and scalable user interfaces. 
-Collaborated with cross-functional Agile teams to optimize performance and elevate usability across diverse 
-projects. 
+# Hi, I'm Abd Elrahman Essam Mohamed
 
-Committed to implementing robust architecture, ensuring code quality, and pursuing continuous professional 
-development in emerging technologies. </p>
+### Frontend Developer · React · Next.js · Nuxt · Vue · TypeScript
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanessam97&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanessam97" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+enterprise+apps;Multilingual+EN%2FAR+%7C+RTL+experiences;E-commerce+%7C+RBAC+portals+%7C+Admin+dashboards;Clean+architecture+%7C+Performance+%7C+UX)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanessam97" alt="abdelrahmanessam97" /></a> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=abdelrahmanessam97&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/abdelrahmanessam97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-elrahman-essam-57b2082b8)
+[![Email](https://img.shields.io/badge/Contact-Open%20to%20collaborate-0e75b6?style=for-the-badge)](mailto:your.email@example.com)
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave" />
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abd-elrahman-essam-57b2082b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abd-elrahman-essam-57b2082b8" height="30" width="40" /></a>
+</div>
+
+---
+
+## About me
+
+Frontend Developer with **2+ years** of experience building **scalable web applications** and **enterprise platforms** at [**Xyris**](https://xyris.com) (digital solutions: digitization, DCX, CRM/ERP-adjacent systems, and secure enterprise UIs).
+
+I ship **production-grade** interfaces for **B2C e-commerce**, **internal portals**, and **role-based admin** products—with strong focus on **performance**, **usability**, **bilingual EN/AR (RTL)**, and **maintainable architecture**.
+
+- Multilingual apps, locale-aware APIs, and RTL layouts  
+- E-commerce: catalog, checkout, accounts, payments, analytics  
+- Enterprise: document hierarchies, RBAC, granular permissions, secure auth  
+- Stacks: **React 19**, **Next.js**, **Nuxt 4**, **Vue 3**, **TypeScript**, **Zustand**, **Pinia**, **Tailwind CSS**
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,vite,git,figma&perline=6" alt="Tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img height="40" src="https://skillicons.dev/icons?i=express"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zustand-443B2D?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Pinia-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Pinia" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="RHF" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square" alt="i18next" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square" alt="Radix" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanessam97&show_icons=true&locale=en&layout=compact" alt="abdelrahmanessam97" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanessam97&show_icons=true&locale=en" alt="abdelrahmanessam97" /></p>
+## Highlight projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanessam97&" alt="abdelrahmanessam97" /></p>
+| Project | Focus |
+|--------|--------|
+| **Elsewedy Electric** — E-Commerce | B2C store, checkout, OTP/2FA, AI cable estimator, EN/AR, Meta Pixel |
+| **Kandil Internal Portal** | Document hierarchy, RBAC admin, permissions, Nuxt 4 + Pinia |
+
+> Details and case studies live in pinned repos and on [LinkedIn](https://www.linkedin.com/in/abd-elrahman-essam-57b2082b8).
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanessam97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanessam97&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanessam97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanessam97&theme=discord&column=4&margin-w=8&no-bg=true&no-frame=true" alt="Trophies" />
+
+<br /><br />
+
+<!-- Snake animation (enable in repo Settings → Actions if needed) -->
+<img src="https://raw.githubusercontent.com/abdelrahmanessam97/abdelrahmanessam97/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+
+</div>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abd-elrahman-essam-57b2082b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abd_Elrahman_Essam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/abdelrahmanessam97" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abdelrahmanessam97-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+
+<sub>Building interfaces that are fast, accessible, and easy to maintain.</sub>
+
+</div>
